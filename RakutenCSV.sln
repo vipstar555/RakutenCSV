@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RakutenCSV", "RakutenCSV\RakutenCSV.csproj", "{B95AC700-0401-432B-88F1-A750C1173F4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RakutenLib", "RakutenLib\RakutenLib.csproj", "{E3A24A1E-CC7D-427D-B17F-57381E052344}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B95AC700-0401-432B-88F1-A750C1173F4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B95AC700-0401-432B-88F1-A750C1173F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B95AC700-0401-432B-88F1-A750C1173F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B95AC700-0401-432B-88F1-A750C1173F4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3A24A1E-CC7D-427D-B17F-57381E052344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3A24A1E-CC7D-427D-B17F-57381E052344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3A24A1E-CC7D-427D-B17F-57381E052344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3A24A1E-CC7D-427D-B17F-57381E052344}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54A1D8CA-DFF8-4ECD-ABBE-8A1B9C1541EA}
+	EndGlobalSection
+EndGlobal
