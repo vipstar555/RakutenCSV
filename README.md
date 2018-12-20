@@ -1,0 +1,2 @@
+# RakutenCSV
+MarketSpeedの登録銘柄情報のCSVを作成するプログラムです。
